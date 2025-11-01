@@ -1,0 +1,13 @@
+streamlit
+langchain
+sentence-transformers
+numpy
+redis
+python-dotenv
+requests
+uvicorn
+fastapi
+pydantic
+speechrecognition   # optional (STT)
+pyttsx3             # optional (TTS)
+aiofiles            # optional if file upload in FastAPI
